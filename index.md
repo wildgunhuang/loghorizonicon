@@ -11,11 +11,11 @@
 </defs>
         <use x="0" y="0" xlink:href="#layer101" stroke-width="3" fill="#aa44aa" height="600px"></use>
 
+    <use x="530" y="0" xlink:href="#layer101" stroke-width="3" fill="blue"></use>
 </svg>
 
 <svg>
 
-    <use x="530" y="0" xlink:href="#layer101" stroke-width="3" fill="blue"></use>
 </svg>
 
 
