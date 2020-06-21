@@ -1,6 +1,3 @@
-<html>
-
-
 
 
 <svg class="mainjobicon12" version="1.0" xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000" >
@@ -62,15 +59,6 @@
 </svg>
 
 <style type="text/css">
-
 svg.mainjobicon12{fill: url(#MyGradient2); }
-
-
 .mainjobicon12{width:300px;height:300px;}
-
-
-
 </style>
-
-
-</html>
